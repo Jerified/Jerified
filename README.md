@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerified&label=Profile%20views&color=0e75b6&style=flat" alt="jerified" /> </p>
 
-- 🔭 I’m currently working on **Pet store**
+- 🔭 I’m currently working on **Quiz ai**
 
 - 🌱 I’m currently learning **Nextjs**
 
