@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Bet Oracle** (A betting prediction platform).
 - 🌱 I’m currently diving deep into **RAG (Retrieval-Augmented Generation)** and **LangChain**.
-- 💡 My focus is on building scalable full-stack apps and integrating sophisticated **AI** features.
+- 💡 My focus is on building scalable full-stack apps and integrating sophisticated **AI** features .
 - 📫 How to reach me **oyedelejeremiah.ng@gmail.com**
 - ⚡ Fun fact **I love playing CODM**
 
